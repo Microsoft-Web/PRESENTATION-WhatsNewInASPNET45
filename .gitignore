@@ -1,0 +1,12 @@
+bin
+obj
+Packages
+
+*.suo
+*.user
+*.dat
+Thumbs.db
+~$*.pptx
+
+_Resharper*
+msbuild.log
