@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Presentation xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ContentFramework.Core.Models">
+  <Id>WhatsNewInASPNET45</Id>
+  <Technologies>
+    <Technology>Visual Studio</Technology>
+    <Technology>ASP.NET MVC</Technology>
+    <Technology>ASP.NET</Technology>
+    <Technology>HTML5</Technology>
+  </Technologies>
+  <Author>
+    <Blog>http://weblogs.asp.net/jgalloway</Blog>
+    <Email>jon.galloway@microsoft.com</Email>
+    <Name>Jon Galloway</Name>
+  </Author>
+  <Description>
+    In this session, we'll show you how easy it is to take advantage of some seriously powerful features in ASP.NET 4.5 and Visual Studio 2012. We'll overview top new features in our latest releases and show how they all fit together into a cohesive, comprehensive web development toolkit that provides you with both ease of use and extreme flexibility.
+  </Description>
+  <Document RemoveSpeakerNotes="true">.\WhatsNewInASPNET45.pptx</Document>
+  <Title>What's new in ASP.NET 4.5 and Visual Studio 2012 for Web</Title>
+  <Version>1.0.0</Version>
+  <SlideThumbnail>1</SlideThumbnail>
+</Presentation>
